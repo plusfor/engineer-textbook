@@ -1,5 +1,8 @@
 Webアプリケーションエンジニア研修
 ============================
+![mindmap](https://raw.githubusercontent.com/plusfor/engineer-textbook/master/summary_mindmap.png)
+
+Webアプリケーションエンジニアに必要な技術を習得するための課題や参考資料をまとめています。
 
 インターネットの仕組み、プロトコル
 ----------------------
