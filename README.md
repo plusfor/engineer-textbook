@@ -12,6 +12,47 @@ Webアプリケーションエンジニアとして現場はいることがで�
 具体的に現場で求められるポイントや将来的に求められそうなポイント、
 参考となる書籍やweb上の情報を記載しています。
 
+はじめに
+----------------------
+研修ではGit, Github, Slackをつかいます。環境を整えましょう。
+
+### Git
+#### Gitのインストール
+#### .gitconfig
+ホームディレクトリに `.gitconfig` ファイルを作成し以下の内容をコピペしましょう。
+（メールアドレス等は自分を設定すること）
+```
+git config --global user.name "xxxxxxxx"
+git config --global user.email "xxxxxxxx@plusfor.co.jp"
+
+git config --global core.editor "vim"
+git config --global core.pager "less -R"
+git config --global help.autocorrect true
+
+git config --global color.ui "auto"
+
+git config --global core.autocrlf false
+git config --global core.safecrlf true
+git config --global core.whitespace trailing-space,space-before-tab,indent-with-non-tab
+
+git config --global push.default "simple"
+
+git config --list --global
+```
+
+### Github
+#### Githubアカウントの取得
+
+#### plusforオーガナイゼーションへの参加
+アカウントができたら教えて下さい。追加します。
+
+### Slack
+#### Slackインストール
+
+#### チームplusforへの参加
+以下のURLからJOINしてください。
+
+https://plusfor.slack.com/signup
 
 インターネットの仕組み、プロトコル
 ----------------------
